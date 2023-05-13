@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer_lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lqt0327/puppeteer_lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lqt0327/puppeteer_lesson/issues"
+  },
+  "homepage": "https://github.com/lqt0327/puppeteer_lesson#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "ora": "^5.3.0",
+    "puppeteer": "^19.8.5",
+    "uuid": "^9.0.0"
+  }
+}
